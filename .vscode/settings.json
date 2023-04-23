@@ -1,0 +1,23 @@
+{
+    "workbench.startupEditor": "none",
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.formatOnSave": true,
+        "editor.detectIndentation" : false,
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "workbench.colorTheme": "Material Theme Ocean",
+    "window.zoomLevel": 2,
+    "git.enableSmartCommit": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "git.autofetch": true,
+    "python.formatting.provider": "none",
+    "python.formatting.autopep8Args": [
+        "--max-line-length",
+        "120"
+    ],
+    "editor.formatOnSave": true,
+    
+}
