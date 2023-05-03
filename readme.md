@@ -1,5 +1,5 @@
 These are examples from my articles on `Medium` .<br>
-_For more examples, please refer to the [Medium articles](https://medium.com/@MonlesYen)_
+_For more explanations, please refer to the [Medium articles](https://medium.com/@MonlesYen)_
 
 ## About The Project
 
