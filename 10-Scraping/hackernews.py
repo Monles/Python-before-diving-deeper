@@ -36,4 +36,3 @@ def create_custom_hn(links, subtext):
 
 
 pprint.pprint(create_custom_hn(mega_links, mega_subtext))
-
